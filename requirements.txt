@@ -1,0 +1,9 @@
+detectlanguage
+Flask
+Flask_Cors
+flask_ngrok
+nltk
+numpy
+requests
+torch
+gunicorn 
